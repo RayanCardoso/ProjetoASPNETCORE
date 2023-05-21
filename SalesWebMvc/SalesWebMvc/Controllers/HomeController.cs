@@ -22,6 +22,15 @@ namespace SalesWebMvc.Controllers
         {
             return View();
         }
+        
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Projeto para aplicativo de vendas";
+            ViewData["Name"] = "Rayan";
+            ViewData["Email"] = "rayancardoso40@gmail.com";
+
+            return View();
+        }
 
         public IActionResult Privacy()
         {
