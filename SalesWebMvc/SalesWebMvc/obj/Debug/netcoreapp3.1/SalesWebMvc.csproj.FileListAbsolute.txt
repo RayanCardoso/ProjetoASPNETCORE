@@ -1,4 +1,3 @@
-D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\SalesWebMvc.exe
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\SalesWebMvc.deps.json
@@ -133,15 +132,9 @@ D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
@@ -157,3 +150,6 @@ D:\Projeto\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departmen
 D:\Projeto\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Details.cshtml.g.cs
 D:\Projeto\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
 D:\Projeto\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projeto\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
