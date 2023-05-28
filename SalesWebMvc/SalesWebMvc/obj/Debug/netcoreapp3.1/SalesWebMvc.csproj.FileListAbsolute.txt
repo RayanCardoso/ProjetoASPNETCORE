@@ -157,3 +157,4 @@ D:\Projeto\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\I
 D:\Projeto\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Create.cshtml.g.cs
 D:\Projeto\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 D:\Projeto\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Details.cshtml.g.cs
+D:\Projeto\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Edit.cshtml.g.cs

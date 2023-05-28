@@ -4,6 +4,7 @@ using System.Linq;
 using SalesWebMvc.Data;
 using SalesWebMvc.Models;
 using System.Collections.Generic;
+using SalesWebMvc.Services.Exceptions;
 
 namespace SalesWebMvc.Services
 {
@@ -42,6 +43,21 @@ namespace SalesWebMvc.Services
             catch
             {
                 throw new IntegrityException("Can't delete seller because he/she has sales");
+            }
+        }
+
+        public void Update(Seller obj)
+        {
+            if(!_context.Seller.Any(x => x.Id == obj.Id))
+            {
+                throw new NotFoundException("Id Not Found");
+            }
+            try
+            {
+                _context.Update(obj);
+                _context.SaveChanges();
+            } catch (DbConcurrecyException e) {
+                throw new DbConcurrecyException(e.Message);
             }
         }
     }
