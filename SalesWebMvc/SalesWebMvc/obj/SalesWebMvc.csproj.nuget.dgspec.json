@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projeto\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "D:\\ProjetoASPNETCORE\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "D:\\Projeto\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "D:\\ProjetoASPNETCORE\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeto\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "D:\\ProjetoASPNETCORE\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "D:\\Projeto\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectPath": "D:\\ProjetoASPNETCORE\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\RayanCardoso\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeto\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "outputPath": "D:\\ProjetoASPNETCORE\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

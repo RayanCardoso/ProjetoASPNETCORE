@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eIh8yeK8xo14HLoL+iAVuFaFGB3mmEOotGjG3AB2joWHgAMx8SCQX1xxAcPKcA4RdB3KsaPhkbrbPFtOM0cdww==",
+  "dgSpecHash": "XmXBnffB4yOZJi4itTU3OpTylVfVXhG47QduN//ttphvGxzTq+6SAul4dsm1djVQTUTrEGALFBaOTAI7miikWQ==",
   "success": true,
-  "projectFilePath": "D:\\Projeto\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+  "projectFilePath": "D:\\ProjetoASPNETCORE\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RayanCardoso\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\RayanCardoso\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
