@@ -318,3 +318,6 @@ D:\ProjetoASPNETCORE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc
 D:\ProjetoASPNETCORE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.dll
 D:\ProjetoASPNETCORE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.pdb
 D:\ProjetoASPNETCORE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.genruntimeconfig.cache
+D:\ProjetoASPNETCORE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+D:\ProjetoASPNETCORE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+D:\ProjetoASPNETCORE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
