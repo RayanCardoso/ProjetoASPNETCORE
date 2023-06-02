@@ -2,10 +2,11 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Localization;
+using Microsoft.EntityFrameworkCore;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -31,7 +32,9 @@ namespace SalesWebMvc
             services.AddControllersWithViews();
 
             services.AddDbContext<SalesWebMvcContext>(options =>
-                    options.UseMySql(Configuration.GetConnectionString("SalesWebMvcContext"), builder => builder.MigrationsAssembly("SalesWebMvc")));
+            {
+                options.UseMySql(Configuration.GetConnectionString("SalesWebMvcContext"), ServerVersion.AutoDetect(Configuration.GetConnectionString("SalesWebMvcContext")));
+            });
 
             services.AddScoped<SeedingService>();
             services.AddScoped<SellerService>();
